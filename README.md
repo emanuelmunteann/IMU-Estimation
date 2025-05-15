@@ -7,9 +7,9 @@ This repository tells the story of a comprehensive machine learning project dedi
 ## 🗃️ Dataset
 ### Sensor Configuration:
 3 BNO-055 sensors positioned at:
-  - Upper back
+  - Upper Back
   - Right Shoulder
-  - Right bicep
+  - Right Bicep
   
 ### Collected Data
 Each sensor captures:
